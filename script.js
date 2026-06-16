@@ -27,4 +27,3 @@ function modulus(){
     let value2 = Number(document.getElementById("value2").value);
     document.getElementById("getValue").innerText = (value1 % value2);
 }
-we
